@@ -1,5 +1,5 @@
 ## This is a pair of functions for solving, caching and retrieving the inverse
-## of a function
+## of a matrix
 
 ## This function creates a special vector which is a list containing a function
 ## that can set/get the value of the vector and set/get the inverse of a matrix
